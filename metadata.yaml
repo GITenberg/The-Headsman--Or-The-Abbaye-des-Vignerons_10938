@@ -1,0 +1,33 @@
+_repo: The-Headsman--Or-The-Abbaye-des-Vignerons_10938
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Cooper, James Fenimore
+    aliases:
+    - Cooper, Fenimore
+    - Cooper, J. Fenimore (James Fenimore)
+    - Morgan, Jane
+    birthdate: 1789
+    deathdate: 1851
+    gutenberg_agent_id: '483'
+    url: http://www.gutenberg.org/2009/agents/483
+    wikipedia: http://en.wikipedia.org/wiki/James_Fenimore_Cooper
+description: Part of a trilogy of works by the author of The Last of the Mohicans,
+  The Headsman is regarded by many critics to be one of James Fenimore Cooper's most
+  accomplished novels. With the action of the novel divided between the Swiss Alps
+  and a series of sea voyages, The Headsman is a must-read for fans of Cooper's unique
+  brand of adventure fiction.
+gutenberg_issued: '2004-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10938'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Switzerland -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: The Headsman; Or, The Abbaye des Vignerons
+url: http://www.gutenberg.org/ebooks/10938
