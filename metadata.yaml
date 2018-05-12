@@ -1,5 +1,8 @@
 _repo: The-Headsman--Or-The-Abbaye-des-Vignerons_10938
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Cooper, James Fenimore
@@ -17,6 +20,8 @@ description: Part of a trilogy of works by the author of The Last of the Mohican
   accomplished novels. With the action of the novel divided between the Swiss Alps
   and a series of sea voyages, The Headsman is a must-read for fans of Cooper's unique
   brand of adventure fiction.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/10938#The-Headsman--Or-The-Abbaye-des-Vignerons
 gutenberg_issued: '2004-02-01'
 gutenberg_type: Text
 identifiers:
